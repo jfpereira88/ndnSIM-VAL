@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.ipp": "cpp",
+        "*.tcc": "cpp",
+        "optional": "cpp",
+        "future": "cpp",
+        "cmath": "cpp",
+        "any": "cpp",
+        "functional": "cpp",
+        "memory": "cpp",
+        "sstream": "cpp"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}
