@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classns3_1_1ndn_1_1val_1_1ValStrategy.html" title="Pure abstract class, is the base of any new forwarding strategy for VAL. " alt="" coords="5,5,96,32"/>
+<area shape="rect" id="node2" href="$classns3_1_1ndn_1_1val_1_1ValDistancesStrategy.html" title="This class implements a forwarding strategy based on distances to the DA and between nodes..." alt="" coords="144,5,292,32"/>
+</map>
