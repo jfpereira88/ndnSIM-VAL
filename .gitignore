@@ -8,6 +8,5 @@ docs/introspected-doxygen.hpp
 docs/ndnSIM.tag
 qtcreator*
 .vscode/
-*.R
 .Rhistory
 
